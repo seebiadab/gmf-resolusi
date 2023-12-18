@@ -1,4 +1,3 @@
 GMF RESOLUSI
-- Konsisten belajar membuat website
 - Belajar memperdalam ReactJS
 - Memperbanyak nonton YouTube
